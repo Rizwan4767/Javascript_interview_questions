@@ -1,1 +1,1 @@
-# Javascript_interview_questions
+# Javascript_coding_interview_questions
